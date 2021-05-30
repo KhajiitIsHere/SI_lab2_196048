@@ -1,3 +1,6 @@
+![Control_Flow_Graph](https://github.com/KhajiitIsHere/SI_lab2_196048/blob/master/Control%20flow%20graph.jpg)
+
+
 •	Цикломатска комплексност = 8
         
     број_на_ребра + број_на_темиња + 2 * поврзани_компоненти = 27 - 21 + 2*1 = 8
